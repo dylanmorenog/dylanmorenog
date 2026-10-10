@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Dylan 👋
 
-<!--
-**dylanmorenog/dylanmorenog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer from Villahermosa, Tabasco, Mexico.
+Currently in my last year of high school, building real tools 
+for real problems.
 
-Here are some ideas to get you started:
+## What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ **Zona One**  A full-stack web app to manage a cyber café 
+  business, including daily income tracking, financial 
+  transactions, and reporting.
+
+## Interests
+
+- Building products that solve real business problems
+- Entrepreneurship and technology
+- Applying to Computer Science programs in Canada (UBC, SFU)
+
+## Connect
+
+📧 moreno.dylan.gael@gmail.com
