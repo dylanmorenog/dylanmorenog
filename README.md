@@ -14,8 +14,4 @@ for real problems.
 
 - Building products that solve real business problems
 - Entrepreneurship and technology
-- Applying to Computer Science programs in Canada (UBC, SFU)
-
-## Connect
-
-📧 moreno.dylan.gael@gmail.com
+- Applying to Computer Science programs in Canada
