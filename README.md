@@ -1,4 +1,4 @@
-# Hi, I'm Dylan 👋
+# Hi, I'm Dylan 
 
 I'm a software developer from Villahermosa, Tabasco, Mexico.
 Currently in my last year of high school, building real tools 
